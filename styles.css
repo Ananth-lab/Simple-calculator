@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    
+}
+.container{
+    padding : 2rem;
+    text-align: center;
+    width:50%;
+    margin :10rem auto;
+    background-color: burlywood;
+    border : green 4px solid ;
+    border-radius: 5px;
+}
+.box{
+    display: flex;
+}
+#vala,#valb {
+    display: inline-block;
+    margin:auto;
+}
+.btn{
+    margin :2rem 2rem;
+}
+button{
+    width : 5rem;
+    height:3rem;
+}
